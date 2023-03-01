@@ -1,2 +1,4 @@
 data/flights.csv
 data/flights_clean.csv
+.DS_Store
+.ipynb_checkpoints
