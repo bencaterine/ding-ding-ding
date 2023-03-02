@@ -1,4 +1,5 @@
 data/flights.csv
 data/flights_clean.csv
+data/city_temperature.csv
 .DS_Store
 .ipynb_checkpoints
