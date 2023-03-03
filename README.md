@@ -7,8 +7,8 @@ Instructions to set up local repository:
 
 2. Download [city_temperature.csv](https://www.kaggle.com/datasets/sudalairajkumar/daily-temperature-of-major-cities) and place in `data` directory.
 
-3. Run `data-cleaning.ipynb` which will write `flights_clean.csv` into the `data` directory.
+3. Run `data-cleaning.ipynb` which will write `flights_clean.csv` and `flights_clean_numerical.csv` into the `data` directory.
 
-All other files should use `flights_clean.csv` to perform EDA and modeling.
+All other files should use `flights_clean.csv` and `flights_clean_numerical.csv` to perform EDA and modeling.
 
-Note: These steps are necessary because these two `csv` files are too large to add to GitHub.
+Note: These steps are necessary because these `csv` files are too large to add to GitHub.
